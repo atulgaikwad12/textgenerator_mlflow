@@ -1,6 +1,6 @@
-# MLflow-project-template
-MLflow project template
-
+# Text Generator application 
+This is a NLP(Natural Language Processing) project which is implemented using RNN(Recurrent Neural Network) deep learning model. Also instead of standard RNN GRU(Gated Recurrent Unit) is used. 
+For project orchestration ML Flow is beign utilized.
 ## STEPS -
 
 ### STEP 01- Create a repository by using template repository
